@@ -1,2 +1,1 @@
-# Nothings
-Anonymous from Internet 
+Python Script Running Process and Requirements
